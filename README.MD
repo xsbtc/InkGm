@@ -1,16 +1,8 @@
-### 生成依赖文件
-
-首先，生成 `requirements.txt` 文件：
-
-```bash
-pip freeze > requirements.txt
-```
-
 ### README.md 文件
 
 以下是一个双语的 `README.md` 文件示例：
 
-```markdown
+### markdown
 # 项目说明 / Project Description
 
 这是一个用于生成以太坊钱包并进行交易的项目。
@@ -22,10 +14,10 @@ This project is designed to generate Ethereum wallets and perform transactions.
 ### 1. 克隆本仓库 / Clone the Repository
 
 ```bash
-git clone <你的仓库地址>
+git clone https://github.com/xsbtc/InkGm.git
 ```
 
-Replace `<你的仓库地址>` with the actual repository URL.
+Replace `https://github.com/xsbtc/InkGm.git` with the actual repository URL.
 
 ### 2. 切换目录 / Change Directory
 
